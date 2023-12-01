@@ -1,0 +1,7 @@
+django==3.2
+python-dotenv==0.21.0
+psycopg2-binary==2.9.4
+split-settings==1.0.0
+django-debug-toolbar==3.4.0
+pytest==7.1.3
+django-postgres-extra==2.0.6

@@ -1,0 +1,4 @@
+isort==5.10.1
+flake8==4.0 
+pylint==2.15.4
+autopep8==1.7.0
